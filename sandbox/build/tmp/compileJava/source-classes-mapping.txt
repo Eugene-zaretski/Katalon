@@ -1,0 +1,4 @@
+ru/stqa/pft/sandbox/MyFirstProgram.java
+ ru.stqa.pft.sandbox.MyFirstProgram
+ru/stqa/pft/sandbox/Square.java
+ ru.stqa.pft.sandbox.Square
